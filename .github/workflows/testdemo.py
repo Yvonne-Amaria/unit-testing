@@ -1,8 +1,8 @@
 import unittest
-from yourCodeFileName import function1, function2
+from testdemo import function1, function2
 
 
-class TestFileName(unittest.TestCase):
+class Testtestdemo(unittest.TestCase):
     def test_function1(self):
         self.assertEqual(function1(1), 0)
 
