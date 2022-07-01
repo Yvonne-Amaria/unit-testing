@@ -17,4 +17,4 @@ jobs:
 
       - name: Test with unittest
         run: |
-          python3 -m unittest testdemo.py
+          python3 -m unittest testdemo
